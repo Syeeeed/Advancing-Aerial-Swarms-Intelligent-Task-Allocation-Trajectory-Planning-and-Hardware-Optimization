@@ -72,4 +72,4 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 ---
 
 ## Vision
-Towards autonomous, scalable aerial intelligence through integrated swarm systems capable of operating efficiently in complex real-world environments. :contentReference[oaicite:9]{index=9}
+Towards autonomous, scalable aerial intelligence through integrated swarm systems capable of operating efficiently in complex real-world environments. 
