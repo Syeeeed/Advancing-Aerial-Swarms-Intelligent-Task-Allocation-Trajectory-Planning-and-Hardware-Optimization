@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This project develops an integrated swarm intelligence framework for UAVs, combining decentralized task allocation, optimized trajectory planning, and hardware–algorithm co-design to enable real-time coordination in dynamic, resource-constrained environments. :contentReference[oaicite:0]{index=0}
+This project develops an integrated swarm intelligence framework for UAVs, combining decentralized task allocation, optimized trajectory planning, and hardware–algorithm co-design to enable real-time coordination in dynamic, resource-constrained environments. 
 
 ---
 
@@ -13,7 +13,7 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - **3D Dynamic Environments:** Complex airspace with moving obstacles and changing conditions  
 - **Limited Bandwidth:** Communication constraints between swarm agents  
 - **Energy-Constrained Systems:** Battery limitations impacting mission duration  
-- **Scalability:** Coordination complexity increases with swarm size :contentReference[oaicite:1]{index=1}
+- **Scalability:** Coordination complexity increases with swarm size
 
 ---
 
@@ -23,7 +23,7 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - **Trajectory Planning:** Computes collision-free paths  
 - **Execution:** Drives sensors and actuators  
 - **Communication Layer:** Maintains shared state across agents  
-- **Feedback:** Enables real-time adaptive coordination :contentReference[oaicite:2]{index=2}
+- **Feedback:** Enables real-time adaptive coordination.
 
 ---
 
@@ -36,7 +36,7 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - Multi-Objective Constrained Policy Optimization (MOCPO)  
 - Distributed consensus for robust state estimation  
 - Local sensing and communication for self-organization  
-- Adaptive learning for dynamic environments :contentReference[oaicite:3]{index=3}
+- Adaptive learning for dynamic environments 
 
 ---
 
@@ -44,7 +44,7 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - Collision avoidance using potential fields  
 - Optimization-based planning for dense swarm formations  
 - Real-time path generation using PE-PSO with B-spline curves  
-- Formation control using Dubins trajectories respecting kinematic constraints :contentReference[oaicite:4]{index=4}
+- Formation control using Dubins trajectories respecting kinematic
 
 ---
 
@@ -52,14 +52,14 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - Energy density and power management trade-offs  
 - Balancing weight vs capability (sensors, processors, payload)  
 - Communication modules: Wi-Fi, RF, mesh networking  
-- Edge computing for reduced latency and bandwidth usage :contentReference[oaicite:5]{index=5}
+- Edge computing for reduced latency and bandwidth usage 
 
 ---
 
 ## Applications
 - **Search & Rescue:** Reduced response time (~23.7%) through coordinated swarm operations  
 - **Environmental Monitoring:** Adaptive coverage across diverse terrains  
-- **Infrastructure Inspection:** Efficient sequential path planning using optimized trajectories :contentReference[oaicite:6]{index=6}
+- **Infrastructure Inspection:** Efficient sequential path planning using optimized trajectories 
 
 ---
 
@@ -67,7 +67,7 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - **SAPP Framework:** Simultaneous Task Allocation and Path Planning  
 - **AI-Powered Coordination:** Reinforcement learning and LLM-guided coordination fields  
 - **Scalable Systems:** Modular hardware with edge computing capabilities  
-- **Standards Alignment:** Contributions aligned with IEEE P1872.3 and P1955 :contentReference[oaicite:7]{index=7}
+
 
 ---
 
