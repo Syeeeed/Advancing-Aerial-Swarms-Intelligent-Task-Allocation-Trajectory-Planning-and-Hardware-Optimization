@@ -18,29 +18,8 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 ---
 
 ## System Architecture (Swarm Intelligence Stack)
-    +----------------------+
-    |   Task Allocation    |
-    +----------+-----------+
-               |
-               v
-    +----------------------+
-    | Trajectory Planning  |
-    +----------+-----------+
-               |
-               v
-    +----------------------+
-    |      Execution       |
-    +----------+-----------+
-               |
-    ----------------------------
-    |   Communication Layer   |
-    ----------------------------
-               |
-               v
-    +----------------------+
-    |       Feedback       |
-    +----------------------+
-    - **Task Allocation:** Distributes goals and assigns swarm roles  
+   <img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/09d6e273-c140-42b0-960b-931cedbc39a7" />
+ 
 - **Trajectory Planning:** Computes collision-free paths  
 - **Execution:** Drives sensors and actuators  
 - **Communication Layer:** Maintains shared state across agents  
@@ -89,13 +68,6 @@ This project develops an integrated swarm intelligence framework for UAVs, combi
 - **AI-Powered Coordination:** Reinforcement learning and LLM-guided coordination fields  
 - **Scalable Systems:** Modular hardware with edge computing capabilities  
 - **Standards Alignment:** Contributions aligned with IEEE P1872.3 and P1955 :contentReference[oaicite:7]{index=7}
-
----
-
-## Research Context
-- IEEE AI Ethics Oversight Working Group (SG-2)  
-- IEEE P1872.3 (Multi-Robot Ontology)  
-- IEEE P1955 (6G Empowering Robotics) :contentReference[oaicite:8]{index=8}
 
 ---
 
